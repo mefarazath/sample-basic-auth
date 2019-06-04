@@ -7,11 +7,12 @@
 
 Configuring
 * Custom Basic Request Path Authenticator
-![Alt text](resources/basic-auth.png?raw=true "Custom Basic Request Path Authenticator")
+![Alt text](resources/basic-requestpath.png?raw=true "Custom Basic Authenticator")
+
 
 
 * Custom Basic Authenticator
-![Alt text](resources/basic-requestpath.png?raw=true "Custom Basic Authenticator")
+![Alt text](resources/basic-auth.png?raw=true "Custom Basic Request Path Authenticator")
 
 
 
